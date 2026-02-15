@@ -5,4 +5,4 @@ CONTENT
 
 3. module_2_2/HW_2_2_Поліноміальні_ознаки_Pipeline_MLs.ipynb
 
-4. 
+4. module_2_2/HW_2_2_Незбалансована_багатокласова_класифікація_ML.ipynb
