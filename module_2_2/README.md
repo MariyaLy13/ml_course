@@ -3,4 +3,6 @@ CONTENT
 
 2. module_2_2/HW_2_2_Логістична_регресія_з_scikit_learn_ML.ipynb
 
-3
+3. module_2_2/HW_2_2_Поліноміальні_ознаки_Pipeline_MLs.ipynb
+
+4. 
